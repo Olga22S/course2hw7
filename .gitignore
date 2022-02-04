@@ -1,0 +1,5 @@
+/target/
+/src/test/
+/.idea/
+/pom.xml
+/src/main/java/ru/skypro/App.java
